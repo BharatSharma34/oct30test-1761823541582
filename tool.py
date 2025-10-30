@@ -20,7 +20,7 @@ def main():
     
     return {
         "success": True,
-        "message": "Hello from oct30Test!",
+        "message": "Hello from oct30Test! sdfsdf",
         "data": {}
     }
 
